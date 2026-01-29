@@ -1,4 +1,4 @@
-# ¡Hola, soy Willie! 👋
+# ¡Hola, soy Willie!
 
 ¡Bienvenido a mi rincón digital en GitHub! Soy un **estudiante de ingeniería de sistemas** apasionado por la tecnología y la programación.
 
@@ -6,17 +6,17 @@ Me encanta construir cosas, resolver problemas y aprender nuevas tecnologías. P
 
 ---
 
-### 🚀 Sobre mí:
+### Sobre mí:
 
-* 🌱 Actualmente estoy aprendiendo/explorando: **Desarrollo de aplicaciones móviles con Flutter** y **sistemas embebidos**.
-* 👯 Busco colaborar en: **Proyectos de código abierto** relacionados con **energías renovables** o **sistemas de gestión**.
-* 💬 Pregúntame sobre: **Programación orientada a objetos**, **fundamentos de redes** o cómo iniciar en **Python para el análisis de datos**.
-* 📫 Cómo contactarme:[correo electrónico](williamyeferson71@gmail.com) / [LinkedIn](www.linkedin.com/in/willie-yfs-0c4q)
-* ⚡ Dato curioso: Me encanta el ajedrez y me fascinan las películas de ciencia ficción.
+* Actualmente estoy aprendiendo/explorando: **Desarrollo de aplicaciones móviles con Flutter** y **sistemas embebidos**.
+* Busco colaborar en: **Proyectos de código abierto** relacionados con **energías renovables** o **sistemas de gestión**.
+* Pregúntame sobre: **Programación orientada a objetos**, **fundamentos de redes** o cómo iniciar en **Python para el análisis de datos**.
+* Cómo contactarme:[correo electrónico](williamyeferson71@gmail.com) / [LinkedIn](www.linkedin.com/in/willie-yfs-0c4q)
+* Dato curioso: Me encanta el ajedrez y me fascinan las películas de ciencia ficción.
 
 ---
 
-### 📈 Mis Estadísticas de GitHub:
+### Mis Estadísticas de GitHub:
 
 Estas estadísticas se actualizan automáticamente y muestran mi actividad y contribuciones recientes en GitHub.
 
@@ -26,7 +26,7 @@ Estas estadísticas se actualizan automáticamente y muestran mi actividad y con
 
 ---
 
-### ✨ Proyectos Destacados:
+### Proyectos Destacados:
 
 Aquí algunos proyectos en los que he trabajado o que me parecen interesantes.
 
@@ -37,7 +37,7 @@ Aquí algunos proyectos en los que he trabajado o que me parecen interesantes.
 
 ---
 
-### 🌐 Conéctate Conmigo:
+### onéctate Conmigo:
 
 * [**LinkedIn**](www.linkedin.com/in/willie-yfs-0c4q)
 
